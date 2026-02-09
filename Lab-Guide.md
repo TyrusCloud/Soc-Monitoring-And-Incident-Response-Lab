@@ -3,9 +3,12 @@ Ubuntu SOC Server Investigating RHEL Victim
 
 ---
 
-### Screenshot 1: VMware Environment Setup
+### Screenshot 1: Network Configuration
+Established SOC server and monitored endpoint on same network.
 
-![VMware Environment](images/1.png)
+![SOC VM](images/1.png) 
+![Log VM](images/1.png) 
+
 
 **What is shown:**  
 VMware interface displaying two Linux virtual machines configured for the lab environment.
