@@ -1,4 +1,4 @@
- 🛡️ Full Linux SOC Monitoring Lab Guide
+ 🛡️ Full Linux SOC Monitoring Lab Guide & Incident Response
 Ubuntu SOC Server Investigating RHEL Victim 
 
 ---
