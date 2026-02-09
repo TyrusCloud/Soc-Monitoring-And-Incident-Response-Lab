@@ -1,4 +1,4 @@
-# 🛡️ Linux SOC Monitoring Lab & Incident Response 
+# 🛡️ Linux SOC Monitoring & Incident Response Lab
 
 
 
